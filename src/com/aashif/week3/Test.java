@@ -5,8 +5,8 @@
 
          */
 
-package com.aashif.week2;
-import com.aashif.week2.*;
+package com.aashif.week3;
+import com.aashif.week3.*;
 
 public class Test{
     public static void main(String args[]){

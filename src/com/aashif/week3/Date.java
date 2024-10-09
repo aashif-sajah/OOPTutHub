@@ -1,4 +1,4 @@
-package com.aashif.week2;
+package com.aashif.week3;
 
 public class Date{
     public static void main(String args[]){
